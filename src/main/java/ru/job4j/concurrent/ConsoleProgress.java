@@ -26,5 +26,6 @@ public class ConsoleProgress implements Runnable {
         }
         progress.interrupt();
     }
+
 }
 
